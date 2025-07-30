@@ -17,7 +17,7 @@ This Tableau dashboard provides a visual analysis of sales and profit data. It i
 ---
 
 ## 📂 Dataset
-Sample sales dataset used: [`Large_Sample_Sales_Data.csv`]
+Sample sales dataset used: [[`Large_Sample_Sales_Data.csv`]](https://github.com/Nihaljyoti-Nath/tableau-sales-dashboard/blob/main/Large_Sample_Sales_Data.csv)
 
 
 ---
