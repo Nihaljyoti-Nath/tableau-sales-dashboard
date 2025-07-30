@@ -23,13 +23,13 @@ Sample sales dataset used: [[`Large_Sample_Sales_Data.csv`]](https://github.com/
 ---
 
 ## 👤 Author
-**Nihal Jyotinath**
+**Nihaljyoti Nath**
 
 ---
 
 ## 🚀 How to View
 To view the dashboard:
-1. Download the `.twb` or `.twbx` file
+1. Download the `.twbx` file
 2. Open with Tableau Public/Desktop
 
 ---
